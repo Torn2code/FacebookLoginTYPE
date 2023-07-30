@@ -1,0 +1,79 @@
+
+
+      .fb-tab {
+      height: 100px;
+      width: 200px;
+      align-items: center;
+      justify-content: center;
+    
+      }
+
+      .first-bar {
+      padding: 7px;
+      border-radius: 7px;
+      color: #000;
+      border: solid;
+      width: 315px;
+      margin-bottom: 5px;
+      } 
+      
+      .mai-bar {
+        display: block;
+        color: #000;
+        margin-top: 20px;
+        padding: 7px;
+        width: 315px;
+        border-radius: 7px;
+        border: solid;
+      }
+      
+      .sign-bar {
+        margin-top: 10px;
+        padding: 7px;
+        width: 315px;
+        color: white;
+        background-color: rgb(24, 104, 216);
+        border-radius: 7px;
+        border: solid;
+        cursor: pointer;
+      
+      }
+      
+      .face-tab {
+      display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+      }
+      
+      .gri-tab {
+      
+        padding: 20px;
+        border-radius: 7px;
+        background-color: rgb(50, 183, 13);
+        color: white;
+        border: none;
+        text-decoration: solid;
+        width: 200px;
+      
+      }
+      
+      .fgtn-bar {
+        color: rgb(24 119 242);
+        transition: box-shadow 0.2s ease-in-out;
+      }
+      
+      a:hover {
+        text-decoration: underline;
+        color: rgb(24, 119, 242);
+      cursor: pointer;
+      box-shadow: 0 5px 10px rgba(13, 0, 0, 0.867);
+      background-color: #e8e0e0;
+      }
+      
+      .cover-tab {
+        background-color: rgb(0, 221, 255);
+        
+      }
+      
